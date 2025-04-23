@@ -1,1 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Number One Viagens & Turismo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Number One Viagens & Turismo</h1>
+        <p>Transformando viagens em experiências inesquecíveis</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#historico">Histórico</a></li>
+            <li><a href="#diferenciais">Diferenciais</a></li>
+            <li><a href="#pacotes">Pacotes</a></li>
+            <li><a href="#contatos">Contatos</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="historico">
+            <h2>Histórico</h2>
+            <p>A "NUMBER ONE VIAGENS & TURISMO" nasceu do desejo de transformar viagens em experiências inesquecíveis...</p>
+        </section>
+        <section id="diferenciais">
+            <h2>Diferenciais</h2>
+            <ul>
+                <li>Variedade de Transportes</li>
+                <li>Reservas Simplificadas</li>
+                <li>Atendimento de Excelência</li>
+                <li>Conexão Direta</li>
+            </ul>
+        </section>
+        <section id="pacotes">
+            <h2>Tipos de Pacotes</h2>
+            <h3>Pacotes Nacionais</h3>
+            <ul>
+                <li>Jericoacoara e Porto de Galinhas</li>
+                <li>Salvador e cidades históricas</li>
+                <li>Amazônia e Chapada dos Veadeiros</li>
+            </ul>
+            <h3>Pacotes Internacionais</h3>
+            <ul>
+                <li>Paris, Miami e Dubai</li>
+                <li>Safáris na África e Nova Zelândia</li>
+                <li>Cruzeiros temáticos</li>
+            </ul>
+        </section>
+        <section id="contatos">
+            <h2>Contatos</h2>
+            <p>Telefone: (62) 992597106</p>
+            <p>E-mail: <a href="mailto:viagens.numberone1@gmail.com">viagens.numberone1@gmail.com</a></p>
+            <p>Instagram: <a href="https://instagram.com/agencianumberone" target="_blank">@agencianumberone</a></p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2025 Number One Viagens & Turismo</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
 
